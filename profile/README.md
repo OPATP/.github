@@ -6,4 +6,4 @@ Artur Bruno Leitão de Vasconcelos, Caio Gustavo Coelho Guimarães, Francisco Ni
 ## Former Researchers
 Gabriel de Oliveira Militão Andrade, Joana Maia Fernandes Barroso, João Lucas Albuquerque Oliveira, Kaio Gefferson de Almeida Mesquita, Lucas Sousa Ferreira, and Renato Goersch Andrade Parente.
 
-<img align="left" src="profile/opatp.png?raw=true" alt="logo" width="150">
+<img align="left" src="profile/opatp.png?raw=true" alt="logo" width="150" style="background-color:white;">
