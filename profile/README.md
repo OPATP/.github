@@ -1,2 +1,1 @@
-OPATP is an organization of students from the Postgraduate Programme in Transport Engineering at the Federal University of Ceará.
-Under the guidance of Professor Dr. Francisco Moraes, the group carries out academic research related to the Operation, Planning and Evaluation of Public Transport.
+OPA-TP is a research group in *Operations, Planning and Assessment of Public Transport Systems*, at the [Transport Engineering Graduate Program](https://www.det.ufc.br/petran) - [Universidade Federal do Ceará](ufc.br), under the supervision of [Prof. Dr. Francisco Moraes de Oliveira Neto](http://lattes.cnpq.br/7671802407202251). <img align="right" src="opatp.png?raw=true" alt="logo" width="150">
